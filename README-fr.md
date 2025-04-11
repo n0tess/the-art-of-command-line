@@ -39,7 +39,7 @@ Contexte :
 
 - Ce guide est destiné aux débutants et aux utilisateurs chevronnés.
 Les objectifs sont l'*envergure* (tout est important), la *spécificité* (donner des exemples concrets des cas les plus courants) et la *concision* (éviter tout ce qui n'est pas essentiel et les digressions disponibles facilement ailleurs).
-Chaque astuce est indispensable dans certaines situations ou fait gagner beaucoup de temps par rapport aux solutions alternatives.
+Chaque astuce est indispensable dans certaines situations et fait gagner beaucoup de temps par rapport aux solutions alternatives.
 - Il est écrit pour Linux, à l'exception des sections « [Uniquement macOS](#uniquement-macos) » et « [Uniquement Windows](#uniquement-windows) ».
 Beaucoup d'items s'appliquent ou peuvent être installés sur d'autres Unices ou macOS (ou même Cygwin).
 - L'accent est mis sur l'utilisation interactive de Bash, bien que de nombreuses astuces s'appliquent aux autres shells et à l'écriture de scripts en Bash.
